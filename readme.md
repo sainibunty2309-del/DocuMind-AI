@@ -4,6 +4,23 @@ DocuMind AI is an AI-powered PDF research assistant that allows users to upload 
 
 The project uses Retrieval-Augmented Generation (RAG) to find relevant document chunks before generating answers.
 
+## 🚀 Live Demo
+
+Try DocuMind AI here: **[Open Live App](https://documind-pdf-assistant.streamlit.app/)**
+
+## 📸 Screenshots
+
+### App Interface
+![DocuMind AI Home](screenshots/app-home.png)
+
+### AI Question Answering
+![Question Answering](screenshots/question-answer.png)
+
+### PDF Summarization
+![PDF Summary](screenshots/pdf-summary.png)
+
+
+
 ## ✨ Features
 
 - 📄 PDF upload and text extraction
@@ -41,7 +58,7 @@ The project uses Retrieval-Augmented Generation (RAG) to find relevant document 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sainibunty2309-del/DocuMind-AI.git
 cd DocuMind-AI
 ```
 
